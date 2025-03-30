@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Killerr0211
-- 👀 I’m interested in javascript
-- 🌱 I’m currently learning python.
-- 📫 How to reach me- you can email me "kartikeybhardwaj11@gmail.com"
+- 👋 Hi, I’m Kartikeya Bhardwaj
+- 👀 I’m interested in Python developing 
+- 🌱 I’m currently learning DSA.
+- 📫 How to reach me- you can email me "kartikeyabhardwaj0211@gmail.com"
 
 <!---
 Killerr0211/Killerr0211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
