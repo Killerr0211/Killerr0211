@@ -4,7 +4,6 @@
 
 🚀 Currently learning:
 - 🐍 Python (main) | ☕ Java (secondary)
-- 🧠 AI/ML models, Transformers, FastAPI, Flask
 - 📊 Data Viz | Pandas | NumPy | Qiskit (just for fun!)
 
 🛠 Projects in progress:
